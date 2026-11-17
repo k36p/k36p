@@ -102,8 +102,8 @@ AI is part of my workflow, not my identity. I use it to work more effectively an
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k36p&show_icons=true&hide_border=true&theme=transparent" alt="Mohammed's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k36p&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=k36p&show_icons=true&hide_border=true&theme=transparent" alt="Mohammed's GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=k36p&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
 </div>
 
 ---
