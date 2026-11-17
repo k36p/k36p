@@ -1,191 +1,121 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Hossam (محمد حسام)
-### 💻 Computer Systems Engineering Student & Full-Stack Developer
+# Mohammed Hossam
+### Full-Stack Web Developer · Backend-focused · Computer Systems Engineering Student
 
-<p align="center">
-  <a href="https://mohammedhossam.com"><strong>Explore Portfolio »</strong></a>
-  •
-  <a href="https://linkedin.com/in/bn-hossam"><strong>LinkedIn »</strong></a>
-  •
-  <a href="mailto:muhammadalagha561@gmail.com"><strong>Get in Touch »</strong></a>
+I build web platforms that are practical, reliable, and made to last.
+
+<p>
+  <a href="https://mohammedhossam.com"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/bn-hossam"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:muhammadalagha561@gmail.com"><strong>Email</strong></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Cloud+Systems+Developer;Computer+Systems+Engineering+%40+Al-Aqsa+University;Building+Scalable%2C+Fast+%26+Clean+Architecture;Next.js+16+%7C+React+19+%7C+TypeScript+%7C+Node.js)](https://mohammedhossam.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedhossam.com-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://mohammedhossam.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bn-hossam)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadalagha561@gmail.com)
 
 </div>
 
 ---
 
-### 💫 About Me (نبذة عني)
+## About
 
-- 🎓 **Education**: Computer Systems Engineering student at **Al-Aqsa University** (جامعة الأقصى).
-- 🛠️ **Full-Stack Craftsmanship**: I turn product requirements into stable, high-performance software — from database schemas and API design to responsive, interactive interfaces.
-- ⚡ **Physics & Interactive Web**: Passionate about modern web UI/UX, incorporating 2D physics engines (**Matter.js**) and responsive micro-animations.
-- 🎯 **Architecture First**: Dedicated to clean code, robust data modeling, and performance optimization so systems scale smoothly without emergency rewrites.
-- 📍 **Location**: Gaza, Palestine 🇵🇸
-- 🌐 **Personal Website**: [mohammedhossam.com](https://mohammedhossam.com)
+I'm a Computer Systems Engineering student and Full-Stack Developer based in Palestine. I build web applications from the interface to the backend, with a particular interest in backend engineering, API design, database architecture, and performance.
 
----
+I care about what happens beyond the first release: whether a product is dependable under real use, easy to maintain, secure by design, and straightforward for people to use. I prefer solving the underlying problem over adding complexity or relying on temporary fixes.
 
-## 🛠 Tech Stack & Tools
+AI is part of my workflow, not my identity. I use it to work more effectively and integrate AI-powered features into products when they solve a clear user problem.
 
-### 🌐 Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+## What I Work On
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+- **Full-stack development** — responsive web applications and complete product experiences.
+- **Backend engineering** — Node.js services, API design, integrations, and application logic.
+- **Data and performance** — MongoDB data modeling, query optimization, and reliable data flows.
+- **Product quality** — maintainable code, security-aware implementation, performance, and usability.
+- **Practical automation and AI** — tools and integrations that reduce friction and provide real value.
 
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+## Tech Stack
 
-### 🚀 DevOps, Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4169E1?style=flat-square)
+
+**Data & Infrastructure**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 💼 Career Journey & Experience
-
-- **Full-Stack Developer** *(2024 - Present)*  
-  Building production web platforms with Next.js 16, React 19, Node.js, and Nest.js. Designing RESTful services and optimizing database queries for high reliability.
-  
-- **Independent Web Developer** *(2022 - 2023)*  
-  Developed custom client web applications, database schemas, and tailored frontend interfaces.
-  
-- **Discord Systems Developer** *(2021 - 2022)*  
-  Engineered bot automations, event-driven integrations, and community server infrastructure.
-
----
-
-## 🌟 Featured Projects (المشاريع المميزة)
+## Selected Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Interactive Portfolio & Showcase</h3>
-      <p>Modern bilingual portfolio built with Next.js 16, React 19, Matter.js 2D physics engine, custom MongoDB analytics, and JWT admin panel.</p>
-      <p><strong>Stack:</strong> Next.js 16, React 19, Tailwind CSS v4, Matter.js, MongoDB</p>
-      <p align="center">
-        <a href="https://mohammedhossam.com">🌐 Live Preview</a>
-      </p>
+    <td width="50%" valign="top">
+      <h3><a href="https://midad.xyz">Midad · مِداد</a></h3>
+      <p>An academic platform built for students of Al-Aqsa and Al-Azhar Universities. It brings university-specific study plans and regulations, course resources, an academic assistant, GPA tools, and practical study utilities into one place.</p>
+      <p><strong>Focus:</strong> Full-stack platform · Academic workflows · AI integration</p>
+      <p><strong>Technologies:</strong> Node.js, Express, MongoDB, Google Gemini, PDF-Lib</p>
+      <a href="https://midad.xyz">Visit Midad →</a>
     </td>
-    <td width="50%">
-      <h3 align="center">☁️ Enigma</h3>
-      <p>Cloud infrastructure and deployment automation pipeline for containerized microservices and backend workloads.</p>
-      <p><strong>Stack:</strong> Docker, Node.js, Cloud Architecture, Microservices</p>
-      <p align="center">
-        <em>Coming Soon</em>
-      </p>
+    <td width="50%" valign="top">
+      <h3><a href="https://mohammedhossam.com">Personal Portfolio</a></h3>
+      <p>My bilingual portfolio: a place to present selected work, explain how I approach projects, and share the engineering principles behind the products I build.</p>
+      <p><strong>Focus:</strong> Interactive UI · Responsive design · Custom analytics</p>
+      <p><strong>Technologies:</strong> Next.js, React, TypeScript, Tailwind CSS, MongoDB, Matter.js</p>
+      <a href="https://mohammedhossam.com">Visit Portfolio →</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📚 Midad EDU</h3>
-      <p>Open educational platform providing academic resources and learning tools for university and school students in Gaza.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, REST APIs, MongoDB</p>
-      <p align="center">
-        <a href="https://mohammedhossam.com">🌐 View Case Study</a>
-      </p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/k36p/Sport-Reservation-System">Sport Reservation System</a></h3>
+      <p>A sports-facility booking application with separate customer, facility-owner, and admin workflows. It covers facility listings, available time slots, bookings, and simulated payments.</p>
+      <p><strong>Technologies:</strong> Node.js, Express, MySQL, JWT, HTML, CSS, JavaScript</p>
+      <a href="https://github.com/k36p/Sport-Reservation-System">View Repository →</a>
     </td>
-    <td width="50%">
-      <h3 align="center">⚽ Sport Reservation System</h3>
-      <p>Complete web platform for managing and booking sports facilities, court slots, and player schedules.</p>
-      <p><strong>Stack:</strong> JavaScript, HTML5, CSS3, Backend APIs</p>
-      <p align="center">
-        <a href="https://github.com/k36p/Sport-Reservation-System">💻 GitHub Repository</a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>Enigma</h3>
+      <p>A technology solutions initiative currently in development. More details will be shared as the project takes shape.</p>
+      <p><strong>Status:</strong> In progress</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=k36p&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k36p&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k36p&theme=radical&hide_border=true" alt="GitHub Streak" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k36p&show_icons=true&hide_border=true&theme=transparent" alt="Mohammed's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k36p&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
 </div>
 
 ---
 
-## 📈 Activity & Trophies
+## Let's Connect
+
+I'm open to discussing web platforms, backend systems, integrations, and practical product ideas.
+
+- **Website:** [mohammedhossam.com](https://mohammedhossam.com)
+- **LinkedIn:** [linkedin.com/in/bn-hossam](https://linkedin.com/in/bn-hossam)
+- **Email:** [muhammadalagha561@gmail.com](mailto:muhammadalagha561@gmail.com)
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k36p&theme=github-compact)](https://github.com/k36p)
-
-</div>
-
----
-
-## 📫 Connect with Me (تواصل معي)
-
-<div align="center">
-
-<a href="https://mohammedhossam.com">
-  <img src="https://img.shields.io/badge/Portfolio-mohammedhossam.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/bn-hossam">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Hossam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:muhammadalagha561@gmail.com">
-  <img src="https://img.shields.io/badge/Email-muhammadalagha561@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://x.com/krify_">
-  <img src="https://img.shields.io/badge/X-@krify_-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
-&nbsp;
-<a href="https://instagram.com/k.czm">
-  <img src="https://img.shields.io/badge/Instagram-@k.czm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=k36p&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
-
-<p>⭐ Designed with care for <strong>Mohammed Hossam</strong>'s Profile</p>
-
+  <sub>Built with care by Mohammed Hossam · Palestine</sub>
 </div>
