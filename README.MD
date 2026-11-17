@@ -14,7 +14,7 @@ I build web platforms that are practical, reliable, and made to last.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammedhossam.com-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://mohammedhossam.com)
-[![LinkedIn](https://img.shields.io/badge/Upwork-Profile-0A66C2?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b8bbb18b17c2f8d7)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-0A66C2?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b8bbb18b17c2f8d7)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadalagha561@gmail.com)
 
 </div>
@@ -113,7 +113,7 @@ AI is part of my workflow, not my identity. I use it to work more effectively an
 I'm open to discussing web platforms, backend systems, integrations, and practical product ideas.
 
 - **Website:** [mohammedhossam.com](https://mohammedhossam.com)
-- **Upwork:** [linkedin.com/in/bn-hossam](https://www.upwork.com/freelancers/~01b8bbb18b17c2f8d7)
+- **Upwork:** [upwork.com/freelancers/~01b8bbb18b17c2f8d7](https://www.upwork.com/freelancers/~01b8bbb18b17c2f8d7)
 - **Email:** [muhammadalagha561@gmail.com](mailto:muhammadalagha561@gmail.com)
 
 <div align="center">
